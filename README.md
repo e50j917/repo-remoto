@@ -1,2 +1,2 @@
-# Repositório Local Depois do Clone
-Descrição inserida no repositório Local depois do clone
+# Repositório Antes do Clone
+Descrição inserida no repositório Local Antes do clone
